@@ -8,3 +8,4 @@ Enlace o captura del tablero: https://trello.com/b/Ry6cVaKG/app-citas-medicas-%F
 | En revisión / pruebas | 2 | Existe un pull request abierto | PR aprobado por otro integrante y workflow de CI en verde |
 | Listo para desplegar | 3 | Cumple los 6 criterios de la DoD | Despliegue realizado de lunes a jueves (no se despliega los viernes) |
 | Hecho | Sin límite | Desplegado y verificado en producción | — |
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ae466650-1b8a-48a7-8ae8-5d8a15198e7b" />
