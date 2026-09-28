@@ -21,3 +21,6 @@ Hoja de cálculo: https://docs.google.com/spreadsheets/d/1BQ2u9ixtMR-9Bz2bcZgaRj
 
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f570cb05-0bea-4eb4-a1d3-6964e7e946a8" />
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/30037603-b67e-4289-a538-331a40f0556d" />
+
