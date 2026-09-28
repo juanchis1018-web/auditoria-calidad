@@ -20,7 +20,9 @@ Una startup desarrolla una app de citas médicas. Entrega cada 2 semanas, tiene 
 | 6. Socialización | 15 | Sustentación de 3 minutos del plan de cumplimiento | Exposición |
 
 ## Entrega
-Un enlace al repositorio con el último commit y la ejecución del workflow en verde (pestaña **Actions**).
+<img width="950" height="1078" alt="image" src="https://github.com/user-attachments/assets/a8249f54-6e01-4a45-98c1-64dc97450194" />
+
+
 
 ## Pistas para el bloque 3 (TDD)
 1. Lea la especificación en `src/citas.py`.
