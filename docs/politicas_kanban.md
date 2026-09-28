@@ -1,7 +1,6 @@
 # Tablero Kanban: políticas por columna
 
-Enlace o captura del tablero: _______ (pegar aquí el enlace de Trello o GitHub Projects)
-
+Enlace o captura del tablero: https://trello.com/b/Ry6cVaKG/app-citas-medicas-%F0%9F%A9%BA 
 | Columna | Límite WIP | Política de entrada | Política de salida |
 |---|---|---|---|
 | Por hacer | Sin límite (máx. 10 priorizadas) | La historia tiene criterios de aceptación y prioridad del Product Owner | Un integrante la toma y se asigna |
