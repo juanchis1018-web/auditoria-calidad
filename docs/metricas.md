@@ -15,4 +15,9 @@ Observación: 3 de los 4 fallos ocurren en despliegues de viernes (ids 3, 8 y 17
 | Kanban | Tiempo de ciclo (cycle time) por tarjeta | Eficiencia de desempeño del proceso / Fiabilidad de la entrega |
 | XP | % de cobertura de pruebas unitarias | Mantenibilidad (testeabilidad) |
 | DevOps | Tasa de fallo de cambios y MTTR | Fiabilidad (madurez y capacidad de recuperación) |
+
+
 Hoja de cálculo: https://docs.google.com/spreadsheets/d/1BQ2u9ixtMR-9Bz2bcZgaRjZw355oeN9yYdZzOBiEf48/edit?usp=sharing 
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f570cb05-0bea-4eb4-a1d3-6964e7e946a8" />
