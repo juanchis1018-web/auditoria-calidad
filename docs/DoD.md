@@ -10,3 +10,7 @@ Cada criterio debe ser verificable (sí/no) y estar ligado a un atributo de cali
 | 4 | El código fue revisado por otro integrante (pull request aprobado) | Mantenibilidad (analizabilidad) | Pull request con al menos 1 aprobación |
 | 5 | El código cumple las 5 reglas de codificación del equipo | Mantenibilidad (modificabilidad) | Checklist de revisión en el pull request |
 | 6 | No se exponen datos sensibles de pacientes (sin claves ni datos reales en el código) | Seguridad (confidencialidad) | Revisión del pull request y alertas de seguridad de GitHub sin hallazgos |
+
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/80bbc056-0fb9-4b92-be24-b46a203d3bb8" />
